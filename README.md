@@ -1,6 +1,6 @@
 # 简单粒子制作
 
-github完整工程文件
+github完整工程文件 <https://github.com/JennySRH/ParticleSystem>
 
 游戏视频<https://www.bilibili.com/video/av74717368/>
 
